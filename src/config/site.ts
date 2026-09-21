@@ -1,6 +1,6 @@
 export const siteConfig = {
   // TODO: edit — replace the portfolio owner details below.
-  name: "Ayoub Benoumessad",
+  name: "Ayoub",
   initials: "AB",
   role: "Web Developer",
   tagline: "I build fast, thoughtful digital products that turn ambitious ideas into clear, memorable experiences.",
@@ -15,8 +15,8 @@ export const siteConfig = {
   ],
   seo: {
     // TODO: edit — customize these search and sharing texts.
-    title: "Ayoub Benoumessad — Web Developer",
-    description: "Portfolio of Ayoub Benoumessad, a web developer building modern, responsive, and high-performing digital experiences.",
+    title: "Ayoub — Web Developer",
+    description: "Portfolio of Ayoub, a web developer building modern, responsive, and high-performing digital experiences.",
   },
 } as const;
 
