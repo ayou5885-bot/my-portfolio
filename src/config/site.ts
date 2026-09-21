@@ -9,10 +9,9 @@ export const siteConfig = {
   location: "Algiers, Algeria",
   availability: "Available for select projects",
   socials: [
-    // TODO: edit — replace these placeholder social profile links.
-    { label: "", url: "https://github.com/", username: "github.com/yourname" },
-    { label: "", url: "https://www.linkedin.com/", username: "linkedin.com/in/yourname" },
-  ],
+  { label: "GitHub", url: "https://github.com/ayou5885-bot", username: "github.com/ayou5885-bot" },
+  { label: "LinkedIn", url: "https://www.linkedin.com/in/YOUR-NAME", username: "linkedin.com/in/YOUR-NAME" },
+],
   seo: {
     // TODO: edit — customize these search and sharing texts.
     title: "Ayoub — Web Developer",
