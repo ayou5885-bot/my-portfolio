@@ -20,7 +20,7 @@ export const projects: Project[] = [
   {
     id: "nomad",
     title: "Nomad",
-    description: "A refined travel experience for discovering places, planning stays, and moving with confidence.",
+    description: "A brand website for an urban electric bike, presenting its features, technology and lifestyle in a clean, editorial layout.",
     tags: ["React", "TypeScript", "Travel UX"],
     liveUrl: "https://nomad-p9we.vercel.app/",
     image: nomadImage,
@@ -28,7 +28,7 @@ export const projects: Project[] = [
   {
     id: "laptop-store",
     title: "Laptop E-Commerce Store",
-    description: "A conversion-focused storefront that makes comparing and buying the right laptop effortless.",
+    description: "An online laptop store with 40+ models from Dell, HP, Lenovo, ASUS, Acer and Apple, organized for business, gaming, creative work and everyday use.",
     tags: ["E-commerce", "React", "Responsive"],
     liveUrl: "https://laptop-e-commerce-store.vercel.app/",
     image: laptopStoreImage,
@@ -36,7 +36,7 @@ export const projects: Project[] = [
   {
     id: "volt",
     title: "Volt",
-    description: "A bold product experience combining crisp interaction design with a high-energy visual system.",
+    description: "An online store for PC components, peripherals and gaming systems, with a bold dark interface, shop and category browsing, search and a cart.",
     tags: ["Frontend", "UI Design", "Performance"],
     liveUrl: "https://volt-last-one.vercel.app/",
     image: voltImage,
@@ -44,7 +44,7 @@ export const projects: Project[] = [
   {
     id: "ayo-fashion",
     title: "Ayo Fashion",
-    description: "An editorial fashion storefront with expressive layouts and a smooth path from discovery to purchase.",
+    description: "A modern luxury fashion storefront with a refined, editorial presentation of the collection.",
     tags: ["Fashion", "Commerce", "UX"],
     liveUrl: "https://ayo-fashion.vercel.app/",
     image: ayoFashionImage,
@@ -52,7 +52,7 @@ export const projects: Project[] = [
   {
     id: "car-service",
     title: "Car Service",
-    description: "A trustworthy service website that helps drivers explore maintenance options and take the next step.",
+    description: "A car repair website built around open diagnostics, certified technicians and written estimates, with a clear Book a Bay call to action.",
     tags: ["Service Design", "React", "Mobile-first"],
     liveUrl: "https://car-service-web-six.vercel.app/",
     image: carServiceImage,
