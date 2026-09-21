@@ -8,10 +8,7 @@ export const siteConfig = {
   email: "ayoub123123321321@gmail.com",
   location: "Algiers, Algeria",
   availability: "Available for select projects",
-  socials: [
-  { label: "GitHub", url: "https://github.com/ayou5885-bot", username: "github.com/ayou5885-bot" },
-  { label: "LinkedIn", url: "https://www.linkedin.com/in/YOUR-NAME", username: "linkedin.com/in/YOUR-NAME" },
-],
+  
   seo: {
     // TODO: edit — customize these search and sharing texts.
     title: "Ayoub — Web Developer",
